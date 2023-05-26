@@ -1,4 +1,4 @@
-package com.storewebrequisitions.config;
+package com.example.storeWebRequisitions.config;
 
 
 import org.springframework.context.annotation.Configuration;
